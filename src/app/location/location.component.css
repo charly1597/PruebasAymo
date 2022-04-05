@@ -1,0 +1,22 @@
+.localizacion
+{
+  text-align:center;
+}
+
+iframe{
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.contenedor, footer{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(42,193,131,1) 0%, rgba(31,198,164,1) 27%, rgba(22,202,189,1) 47%, rgba(77,230,95,1) 73%, rgba(0,212,255,1) 100%);
+  width:auto;
+  height:100%;
+}
+
+p{
+  font-family: 'Bebas Neue', cursive;
+  font-size:1.5em;
+}
+
